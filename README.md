@@ -8,5 +8,5 @@ HTML CSS ile kodlandı.
 
 <h2>Ekran görüntüsü</h2>
 
-![] (ekran.gif)
+! [] (ekran.gif)
 
